@@ -13,13 +13,13 @@ const CONFIG = {
   projects: [
     {
       name: `coin`,
-      href: "https://github.com/morethanmin/morethan-log",
+      href: "https://github.com/Merlinkim/coin_project",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "magician-merlin",
+    description: "welcome to magic world!",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
@@ -29,7 +29,7 @@ const CONFIG = {
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
   seo: {
-    keywords: ["Blog", "Website", "Notion"],
+    keywords: ["Blog", "Website", "Notion","airflow"],
   },
 
   // notion configuration (required)
